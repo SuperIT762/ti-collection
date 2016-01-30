@@ -1,0 +1,1 @@
+ClrHomeInput "M:",MInput "POINT:",XInput ":",YM*X→AA*–1→AA+Y→BDisp "Y=",MFrac,"X+",BFrac

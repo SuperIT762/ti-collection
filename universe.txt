@@ -1,0 +1,1 @@
+ClrHomeCoordOffGridOffAxesOffLabelOffExprOffLbl ARecallGDB 9DispGraphPause Menu("AGAIN?","YES",A,"NO",QLbl QClrHomeDelVar Y₁CoordOnAxesOnExprOnZStandardStop

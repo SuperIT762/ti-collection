@@ -1,0 +1,1 @@
+ClrHomeMenu("SOLVE FOR","DENSITY",D,"MASS",M,"VOLUME",V,"QUIT",Q)Lbl QClrHomeDisp "GOODBYE"StopLbl DInput "MASS:",MInput "VOLUME:",VDisp "DENSITY IS:"Disp M/VStopLbl MInput "DENSITY:",DInput "VOLUME:",VDisp "MASS IS:"Disp D*VStopLbl VInput "MASS:",MInput "DENSITY:",DDisp "VOLUME IS:"Disp M/DStop

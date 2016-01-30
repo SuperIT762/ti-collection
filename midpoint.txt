@@ -1,0 +1,1 @@
+ClrHomeDisp "THIS PROGRAM"Disp "FINDS THE"Disp "MIDPOINT OF A"Disp "LINE"Disp ""Disp "PROGRAMMED BY"Disp "STEVE WEITKAMP"Pause ClrHomeDisp "ENTER 1ST POINT"Input X:Input YDisp "ENTER 2ND POINT"Input A:Input B(X+A)/2→J(Y+B)/2→KDisp "THE X IS",JDisp "AND THE Y IS",K

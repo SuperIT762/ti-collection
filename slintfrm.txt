@@ -1,0 +1,1 @@
+ClrHomeDisp "MUST USE EITHER:"Disp "AX+BY=N"Disp "OR BY+AX=N"Input "X:",XInput "Y:",YInput "N:",NX*–1→AA/Y→BN/Y→CDisp "Y=X+N"Disp BFracDisp CPause Menu("GRAPH IT?","Y₁",Y1,"Y₂",Y2,"NO",N)Lbl NStopLbl Y1B→EC→D"EX+D"→Y₁DispGraphStopLbl Y2B→SC→T"SX+T"→Y₂DispGraphStop

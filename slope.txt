@@ -1,0 +1,1 @@
+ClrHomeDisp "FIRST POINT:"Input AInput BDisp "SECOND POINT:"Input CInput D(D-B)→X(C-A)→YIf Y=0ThenDisp "UNDEFINED!"StopElseDisp "SLOPE IS:"Disp (X/Y)Frac

@@ -1,0 +1,1 @@
+ClrHomeMenu("I KNOW THE...","RADIUS",R,"DIAMETER",D,"QUIT",Q)Lbl QClrHomeStopLbl RInput "RADIUS:",R2πR→ADisp AStopLbl DInput "DIAMTR:",DπD→ADisp AStop

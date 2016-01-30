@@ -1,0 +1,1 @@
+ClrDrawClrHomeNormalFloatDegreeFuncThickSimulFullRectGCCoordOnGridOffAxesOnLabelOffPlotsOff ClrAllListsZStandard""→Y₁:""→Y₂""→Y₃:""→Y₄""→Y₅:""→Y₆""→Y₇:""→Y₈""→Y₉:""→Y₀Param""→X₁:""→Y₁""→X₂:""→Y₂""→X₃:""→Y₃""→X₄:""→Y₄""→X₅:""→Y₅""→X₆:""→Y₆0→Tmin10→Tmax.1→TstepFuncClear EntriesGarbageCollectDisp "DEFAULTS SET"

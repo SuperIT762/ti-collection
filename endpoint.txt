@@ -1,0 +1,1 @@
+ClrHomeInput "ENDPOINT:",AInput ":",BInput "MIDPOINT:",CInput ":",DC-A→ED-B→FC+E→XD+F→YDisp "X:",XDisp "Y:",Y

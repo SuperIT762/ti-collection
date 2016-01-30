@@ -1,0 +1,1 @@
+ClrHomeDisp "Y=KX"Prompt YPrompt XY/XAns→AInput "FOR:",BB*ADisp Ans

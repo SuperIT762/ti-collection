@@ -1,0 +1,1 @@
+Lbl ZClrHomeMenu("FIND WHAT?","SIDE A",A,"ANGLE B",B,"QUIT",θLbl BClrHomeDisp "ANGLE A"Input ADisp "SIDE A"Input CDisp "SIDE B"Input D(Dsin(A)/C→BDisp "ANGLE B"Disp BFracPause Goto ZLbl θθStopLbl AClrHomeDisp "ANGLE A"Input ADisp "ANGLE B"Input BDisp "SIDE B"Input D(Dsin(A)/sin(B→CDisp "SIDE A"Disp CPause Goto Z

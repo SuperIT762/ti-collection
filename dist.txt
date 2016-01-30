@@ -1,0 +1,1 @@
+ClrHomeInput "X1:",AInput "Y1:",BInput "X2:",CInput "Y2:",D√(((C-A)+(D-B))→EDisp E

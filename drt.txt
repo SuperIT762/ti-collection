@@ -1,0 +1,1 @@
+ClrHomeMenu("SOLVE FOR","DISTANCE",D,"RATE",R,"TIME",T,"QUIT",Q)Lbl QClrHomeDisp "GOODBYE"StopLbl DInput "RATE:",RInput "TIME:",TR*T→ADisp AStopLbl RInput "DIST:",DInput "TIME:",TD/T→ADisp AStopLbl TInput "RATE:",RInput "DIST:",DD/R→ADisp AStop
